@@ -1,0 +1,32 @@
+class MyLinkedList {
+    public MyLinkedList() {
+        public static class Node {
+            int value;
+            Node next;
+        }
+        Node(int value) {
+            this.value = value;
+        }
+    }
+    
+    public int get(int index) {
+        
+    }
+    
+    public void addAtHead(int val) {
+        Node newNode = new Node(val);
+        
+    }
+    
+    public void addAtTail(int val) {
+        
+    }
+    
+    public void addAtIndex(int index, int val) {
+        
+    }
+    
+    public void deleteAtIndex(int index) {
+        
+    }
+}

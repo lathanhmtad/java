@@ -1,0 +1,13 @@
+
+public class MyLinkedList {
+	
+	// 
+	public static class Node {
+		int value;
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

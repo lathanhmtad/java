@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Java\Java_40"/>
+			<item value="D:\Java\Test"/>
+			<item value="D:\Java\NGUYENDANGDUY_21115053120211"/>
+			<item value="D:\Java\TESTLAPTRINHJAVAFPT2"/>
+			<item value="D:\Java\TESTLAPTRINHJAVAFPT"/>
+			<item value="D:\Java\SUPPORTJAVA"/>
+			<item value="C:\Users\d0763\Downloads\TLTJNC - BTFPT (1)"/>
+			<item value="C:\Users\d0763\Downloads\TLTJNC - BTFPT"/>
+			<item value="D:\Java\KIEMTRACUOIKY_DE2"/>
+			<item value="D:\Java\KIEMTRACUOIKY_DE1"/>
+			<item value="D:\Java\Design"/>
+			<item value="D:\Java\Design Linked List"/>
+			<item value="C:\Users\d0763\Downloads\NGUYENDANGDUY_21115053120211"/>
+			<item value="D:\Java\KIEMTRAGIUAKY2"/>
+			<item value="D:\Java\JDBC03"/>
+			<item value="D:\Java\JDBC_03"/>
+			<item value="D:\Java\qlsv-swing"/>
+			<item value="D:\Java\Linked List Cycle"/>
+			<item value="D:\Java\Java_Collections"/>
+			<item value="D:\Java\StringInString"/>
+			<item value="D:\Java\Package"/>
+			<item value="D:\Java\Exercise_Inherit"/>
+			<item value="D:\Java\Exercise_1_Leetcode"/>
+			<item value="D:\Java\Arrays"/>
+			<item value="D:\Java_4\MyProjectShopShoes"/>
+			<item value="D:\Java\StudentManagementSoftware"/>
+			<item value="D:\Java\StudentManagement-Swing"/>
+			<item value="D:\Java\Java_73"/>
+			<item value="C:\Users\d0763\Downloads\KIEMTRAGIUAKY2\GKY"/>
+			<item value="C:\Users\d0763\Downloads\ArrayList"/>
+			<item value="D:\Java\Java_67"/>
+			<item value="D:\Java\Java_70"/>
+			<item value="D:\Java\Java_71"/>
+			<item value="D:\Java\Java_72"/>
+			<item value="C:\Users\d0763\Downloads\THLTHDT5"/>
+			<item value="D:\Java\JDBC5678"/>
+			<item value="D:\Java\Java_61"/>
+			<item value="D:\Java\demo"/>
+			<item value="D:\Java\Reverse String"/>
+			<item value="D:\Java\Java_20"/>
+			<item value="D:\Java\Slide2Demo"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="611"/>
+		<item key="DIALOG_Y_ORIGIN" value="269"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

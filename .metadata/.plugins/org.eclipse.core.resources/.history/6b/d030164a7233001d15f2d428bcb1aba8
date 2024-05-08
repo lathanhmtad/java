@@ -1,0 +1,33 @@
+package main;
+
+import java.util.Scanner;
+
+/*
+Một người chơi sẽ có tài khoản. Người chơi có quyền được cược số tiền ít hơn hoặc
+bằng số tiền họ đang có
+
+Luật chơi như sau:
+ - Có 3 viên xúc xắc. Mỗi viên xúc xắc có 6 mặt có giá trị từ 1->6.
+   Mỗi lần lắc sẽ ra một kết quả. Kết quả = giá trị xx1 + xx2 + xx3.
+   
+   Có 3 tình huống
+   1. Nếu tổng == 3 hoặc 18 => Cái ăn hết, người chơi thua
+   2. Nếu tổng == (4->10) <=> xỉu => nếu người chơi đặt xỉu thì người chs win
+   3. Nếu tổng == (11->17) <=> tài => nếu người chơi đặt xỉu thì người chs win
+ */
+
+
+public class TaiXiu {
+	public static void main(String[] args) {
+		double taiKhoanNguoiChoi = 5000;
+		Scanner sc = new Scanner(System.in);
+		
+		do
+		{
+			System.out.println("--------- MỜI BẠN LỰU CHỌN ----------");
+			System.out.println("Chọn (1) để tiếp tục khô máu.");
+			System.out.println("Chọn (phím bất kỳ) để thoát");
+			int select = sc.nextInt();
+		} while();
+	}
+}

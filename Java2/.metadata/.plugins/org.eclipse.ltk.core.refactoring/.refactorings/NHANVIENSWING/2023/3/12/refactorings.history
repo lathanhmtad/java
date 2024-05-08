@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SQLServerConnection.java&apos; to &apos;KIEMTRAGIUAKY_DESO2/src/data&apos;&#x0D;&#x0A;- Original project: &apos;NHANVIENSWING&apos;&#x0D;&#x0A;- Destination element: &apos;KIEMTRAGIUAKY_DESO2/src/data&apos;&#x0D;&#x0A;- Original element: &apos;data.SQLServerConnection.java&apos;" description="Copy compilation unit" destination="=KIEMTRAGIUAKY_DESO2/src&lt;data" element1="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;data{SQLServerConnection.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1679365395961" units="1" version="1.0"/>
+</session>

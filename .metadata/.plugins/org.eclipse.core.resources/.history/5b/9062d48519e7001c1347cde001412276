@@ -1,0 +1,4 @@
+
+public class Ngay {
+	private int ngay, thang, nam;
+}

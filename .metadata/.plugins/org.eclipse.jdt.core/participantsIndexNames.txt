@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3313273720.index
+\Slide3Demo\src\main\java
+D:\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3867663257.index
+\JavaWebTest\src\main\java
+D:\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\352904565.index
+\HelloServlet\src\main\java
+D:\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1369812263.index
+\MyProjectShopShoes\src\main\java

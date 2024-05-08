@@ -1,0 +1,8 @@
+
+public class BoPhim {
+	private String tenPhim;
+	private int namSanXuat;
+	private HangSanXuat hangSanXuat;
+	private double giaVe;
+	private Ngay ngayChieu;
+}

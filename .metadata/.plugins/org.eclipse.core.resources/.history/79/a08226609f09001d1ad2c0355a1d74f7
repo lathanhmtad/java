@@ -1,0 +1,123 @@
+class MyLinkedList {
+	
+	public class Node {
+		int value;
+		Node next;
+		Node(int value) {
+			this.value = value;
+		}
+	}
+	
+	Node head = null;
+	int size = 0;
+	
+    public MyLinkedList() {
+        
+    }
+    
+    public int get(int index) {
+    	if(index == 0 && head != null) return head.value;
+    	
+    	Node temp = head;
+    	int i = 0;
+    	while(temp.next != null) {
+    		temp = temp.next;
+    		i++;
+    		if(index == i) {
+    			return temp.value;
+    		}
+    	}
+    	
+    	return -1;
+    }
+    
+    public void addAtHead(int val) {
+    	size++;
+    	Node newNode = new Node(val);
+        if(head == null) {
+        	head = newNode;
+        	return;
+        }
+        
+        newNode.next = head;
+        head = newNode;
+        
+    }
+    
+    public void addAtTail(int val) {
+    	size++;
+        Node newNode = new Node(val);
+        if(head == null) {
+        	head = newNode;
+        	return;
+        }
+        Node temp = head;
+        while(temp.next != null) {
+    	   temp = temp.next;
+        }
+        temp.next = newNode;
+    }
+    
+    public void addAtIndex(int index, int val) {
+    	if(index > size) return;
+    	
+    	
+    	// add vào đầu
+    	if(index == 0) {
+    		this.addAtHead(val);
+    	}
+    	else if(index == size) { // add vào cuối
+    		this.addAtTail(val);
+    	}
+    	else { // add vào vị trí bất kì
+    		size++;
+    		int i = 0;
+    		Node newNode = new Node(val);
+    		Node temp = head;
+    		Node prev = null;
+    		while(temp.next != null) {
+    			prev = temp;
+    			temp = temp.next;
+    			i++;
+    			if(i == index) {
+    				prev.next = newNode;
+    				newNode.next = temp;
+    				return;
+    			}
+    		}
+    	}
+    }
+    
+    public void deleteAtIndex(int index) {
+    	// xóa đầu
+    	if(index == 0) {
+    		head = head.next;
+    	}
+    	else {
+    		Node temp = head;
+    		Node prev = null;
+    		int i = 0;
+        	while(temp.next != null) {
+        		prev = temp;
+        		temp = temp.next;
+        		i++;
+        		if(index == i) {
+        			prev.next = temp.next;
+        		}
+        	}
+    	}
+        
+    }
+    
+    public void printLinkedList() {
+    	Node temp = head;
+    	while(temp != null) {
+    		System.out.print(temp.value);
+    		temp = temp.next;
+    		if(temp != null) {
+    			System.out.print("->");   			
+    		}
+    	}
+    	System.out.println(" size = " + size);
+    }
+}

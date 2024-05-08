@@ -1,0 +1,15 @@
+
+public class Test {
+	public static void main(String[] args) {
+		MyLinkedList myLinkedList = new MyLinkedList();
+		
+		myLinkedList.addAtIndex(0, 10);
+		myLinkedList.addAtIndex(0, 20);
+		myLinkedList.addAtIndex(1, 30);
+		
+		myLinkedList.printLinkedList();
+		
+		System.out.println(myLinkedList.get(0));
+		
+	}
+}

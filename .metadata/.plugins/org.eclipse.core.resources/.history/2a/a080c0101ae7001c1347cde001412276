@@ -1,0 +1,6 @@
+
+public class HangSanXuat {
+	private String tenHangSanXuat, quocGia;
+	
+	
+}

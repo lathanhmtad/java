@@ -1,0 +1,12 @@
+package main;
+/*
+Một người chơi sẽ có tài khoản. Người chơi có quyền được cược số tiền ít hơn hoặc
+bằng số tiền họ đang có
+
+
+ */
+
+
+public class TaiXiu {
+
+}

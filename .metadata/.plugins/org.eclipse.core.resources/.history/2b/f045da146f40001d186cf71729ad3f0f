@@ -1,0 +1,10 @@
+package main;
+
+import java.io.FileOutputStream;
+
+public class ZipFile {
+	public static void main(String[] args) {
+		String sourceFile = "test1.txt";
+		FileOutputStream = new FileOutputStream("compressed.zip");
+	}
+}

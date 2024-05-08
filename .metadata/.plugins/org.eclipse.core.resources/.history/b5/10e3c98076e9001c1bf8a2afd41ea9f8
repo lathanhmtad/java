@@ -1,0 +1,12 @@
+
+public class Test {
+	public static void main(String[] args) {
+		NguoiBaLan nbl = new NguoiBaLan("Tomek", 2015);
+		
+		NguoiVietNam nvn = new NguoiVietNam("Tung TITV", 2021);
+		
+		NguoiMy = new NguoiMy("Michal", 2030);
+		
+		
+	}
+}

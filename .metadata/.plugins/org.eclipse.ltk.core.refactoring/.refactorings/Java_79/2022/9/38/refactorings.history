@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ViDu_FlowLayout.java&apos; to &apos;Java_79/src/view&apos;&#x0D;&#x0A;- Original project: &apos;Java_79&apos;&#x0D;&#x0A;- Destination element: &apos;Java_79/src/view&apos;&#x0D;&#x0A;- Original element: &apos;view.ViDu_FlowLayout.java&apos;" description="Copy compilation unit" destination="/src&lt;view" element1="/src&lt;view{ViDu_FlowLayout.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1663412420411" units="1" version="1.0"/>
+</session>
